@@ -7,7 +7,7 @@ import {
     MenuList,
     Text,
   } from "@chakra-ui/react";
-  import { LANGUAGE_VERSIONS } from "C:/Users/ADARSH SINGH/OneDrive/Desktop/code-editor/src/constants.jsx";
+  import { LANGUAGE_VERSIONS } from "../../constants";
   
   const languages = Object.entries(LANGUAGE_VERSIONS);
   const ACTIVE_COLOR = "blue.400";

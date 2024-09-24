@@ -1,8 +1,8 @@
 import { useRef, useState } from "react";
 import { Box, HStack } from "@chakra-ui/react";
 import { Editor } from "@monaco-editor/react";
-import LanguageSelector from "C:/Users/ADARSH SINGH/OneDrive/Desktop/code-editor/src/assets/components/LanguageSelector.jsx/";
-import { CODE_SNIPPETS } from "C:/Users/ADARSH SINGH/OneDrive/Desktop/code-editor/src/constants.jsx";
+import LanguageSelector from "./LanguageSelector.jsx";
+import { CODE_SNIPPETS } from "../../constants.jsx";
 import Output from "./Output";
 
 const CodeEditor = () => {
