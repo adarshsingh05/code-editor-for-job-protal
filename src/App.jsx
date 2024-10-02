@@ -13,7 +13,7 @@ function App() {
         textAlign="center"
       >
 <Image src={logo} alt="logo" h="50px" w="85px" mr={4} /> {/* Adjust height and width */}
-AI-Powered Code editor by Hirrd!
+AI-Powered Code editor by V-Jobs!
       </Box>
       <Box minH="100vh" bg="#0f0a19" color="gray.500" px={6} py={8}>
         <CodeEditor />
