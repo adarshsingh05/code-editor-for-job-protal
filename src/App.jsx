@@ -12,7 +12,7 @@ function App() {
         fontSize="2xl"
         textAlign="center"
       >
-<Image src={logo} alt="logo" h="50px" w="85px" mr={4} /> {/* Adjust height and width */}
+<Image src={logo} alt="logo" h="95px" w="105px" mr={4} /> {/* Adjust height and width */}
 AI-Powered Code editor by V-Jobs!
       </Box>
       <Box minH="100vh" bg="#0f0a19" color="gray.500" px={6} py={8}>
